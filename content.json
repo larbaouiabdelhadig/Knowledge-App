@@ -1,0 +1,63 @@
+{
+  "levels": [
+    {
+      "id": "level_1",
+      "title": "المستوى الأول",
+      "icon": "⭐",
+      "courses": [
+        {
+          "id": "course_1_1",
+          "title": "مقدمة في البرمجة",
+          "icon": "💻",
+          "playlist": [
+            {
+              "id": "vid_1_1_1",
+              "title": "ما هي البرمجة؟",
+              "youtube_id": "zOjov-2OZ0E",
+              "duration_seconds": 600
+            },
+            {
+              "id": "vid_1_1_2",
+              "title": "أدوات المبرمج",
+              "youtube_id": "rfscVS0vtbw",
+              "duration_seconds": 900
+            }
+          ]
+        },
+        {
+          "id": "course_1_2",
+          "title": "أساسيات الإنترنت",
+          "icon": "🌐",
+          "playlist": [
+            {
+              "id": "vid_1_2_1",
+              "title": "كيف يعمل الإنترنت",
+              "youtube_id": "x3c1ih2NJEg",
+              "duration_seconds": 480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "level_2",
+      "title": "المستوى الثاني",
+      "icon": "🌟",
+      "courses": [
+        {
+          "id": "course_2_1",
+          "title": "HTML الأساسي",
+          "icon": "📄",
+          "playlist": [
+            {
+              "id": "vid_2_1_1",
+              "title": "مقدمة HTML",
+              "youtube_id": "UB1O30fR-EE",
+              "duration_seconds": 660
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
