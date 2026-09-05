@@ -683,6 +683,20 @@
               "duration_seconds": 1756
             }
           ]
+        },
+        {
+          "id": "course_95b0ed5a",
+          "title": "التزكية",
+          "icon": "",
+          "image_url": "",
+          "playlist": [
+            {
+              "id": "vid_3b64a2cc",
+              "title": "فضل طلب العلم | الشيخ أ.د سعد الخثلان",
+              "youtube_id": "CdIRs7eTkyo",
+              "duration_seconds": 5644
+            }
+          ]
         }
       ]
     }
